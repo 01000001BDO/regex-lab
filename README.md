@@ -1,4 +1,5 @@
 # 🚀 RegexLab
+> ⚠️ Note: Backend requires self-hosting (not provided due to hosting costs)
 
 ## 🌟 Overview
 RegexLab is a comprehensive web application designed to simplify and enhance regular expression testing, development, and sharing across multiple programming languages.
